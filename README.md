@@ -1,2 +1,3 @@
 # Hello-World
-just create a new repository
+
+Iam a luck man, turst yourself
